@@ -12,7 +12,7 @@ This project uses plain HTML, CSS, and JavaScript; no build step or package inst
    python -m http.server 8000
    ```
 
-2. Visit `http://localhost:8000`.
+2. Visit [`http://localhost:8000`](https://gleaming-mandazi-f50ad0.netlify.app/).
 
 The browser language button switches between English and Arabic (RTL). On page entry, the centered brand mark pulses, releases a small gold sparkle, and travels into the navigation; this intro is skipped when reduced motion is requested. The pinned 3D area wheel unfolds and advances as you scroll; its full-stage photo backdrop crossfades with the current area, and its liquid-glass controls jump to Al Khuwair, Al Hail, or Ghala. The service and area selectors below provide a direct directory as well. Translucent liquid-glass surfaces accent the navigation, hero details, area controls, and footer, with solid-color fallbacks for reduced transparency and higher-contrast display settings.
 
